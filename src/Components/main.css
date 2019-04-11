@@ -1,0 +1,191 @@
+
+.segment1{
+    min-height: 930px;
+    padding: 1em 0em;
+    opacity: 0.75 !important;
+    background-image: url('../images/section1image.jpg') !important;
+    background-position: center center !important;
+    background-repeat: no-repeat !important; ;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+
+.segment2{
+    min-height: 322px;
+    padding: 1em 0em !important;
+    background-color: white !important;
+    background-attachment: fixed !important;
+    color: black !important;
+    padding: 50px 5px !important;
+}
+
+.segment2imageText{
+    color: #800020;
+    text-transform: uppercase;
+    letter-spacing: 8px;
+}
+
+.segment3Text {
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+.segment4imageText {
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: black;
+    font-size: 25px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+    text-transform: uppercase;
+}
+
+.segmentText{
+    position: absolute;
+    top: 50%;
+    width: 100%;
+    text-align: center;
+    color: #ffffff;
+    font-size: 30px;
+    letter-spacing: 8px;
+    text-transform: uppercase;
+}
+
+
+.segment3{
+     min-height: 400px !important;
+     background-image: url('https://images.pexels.com/photos/411207/pexels-photo-411207.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940') !important;
+     padding: 1em 0em !important;
+     background-color: white !important;
+     background-attachment: fixed !important;
+    background-position: center !important;
+     color: black !important;
+    opacity: 0.75 !important;
+     padding: 50px 5px !important;
+ }
+
+.segment4{
+    min-height: 322px !important;
+    background-color: #800020 !important;
+    padding: 1em 0em !important;
+    background-attachment: fixed !important;
+    color: white !important;
+    padding: 50px 5px !important;
+}
+
+.segment5{
+    background-image: url(https://images.pexels.com/photos/862848/pexels-photo-862848.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) !important;
+    min-height: 400px;
+    position: relative !important;
+    opacity: 0.75 !important;
+    background-position: top center !important;
+    background-repeat: no-repeat !important; ;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+
+.segment6{
+    min-height: 322px;
+    padding: 1em 0em !important;
+    background-color: white !important;
+    background-attachment: fixed !important;
+    color: black !important;
+    padding: 50px 5px !important;
+}
+
+.segment7{
+    background-image: url(https://images.pexels.com/photos/1458870/pexels-photo-1458870.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) !important;
+    min-height: 400px;
+    position: relative !important;
+    opacity: 0.75 !important;
+    background-position: top center !important;
+    background-repeat: no-repeat !important; ;
+    background-size: cover !important;
+    background-attachment: fixed !important;
+}
+
+.segment8{
+    min-height: 322px !important;
+    background-color: #800020 !important;
+    padding: 1em 0em !important;
+    background-attachment: fixed !important;
+    color: white !important;
+    padding: 50px 5px !important;
+}
+
+.segment9 {
+    background-image: url(https://images.pexels.com/photos/262488/pexels-photo-262488.jpeg?auto=compress&cs=tinysrgb&dpr=2&h=650&w=940) !important;
+    padding: 1em 0em !important;
+    background-color: white !important;
+    background-attachment: fixed !important;
+    color: black !important;
+    opacity: 0.75 !important;
+    padding: 50px 5px !important;
+    min-height: 400px !important;
+}
+
+.welcome{
+    padding-bottom: 300px;
+    padding-top: 20px;
+    text-transform: uppercase;
+    letter-spacing: .2em;
+    font-size: 30px;
+}
+
+.btn-learn-more{
+    background: #800020 !important;
+    color: white !important;
+    font-size: 15px !important;
+    letter-spacing: .2em !important;
+    text-transform: uppercase !important;
+    border-radius: 24px !important;
+    text-align: center !important;
+    cursor: pointer !important;
+}
+
+.btn-find-sister{
+      background: black !important;
+      color: white !important;
+      font-size: 15px !important;
+      letter-spacing: .2em !important;
+      text-transform: uppercase !important;
+      border-radius: 24px !important;
+      text-align: center !important;
+      cursor: pointer !important;
+  }
+
+.btn-subscribe{
+    background: #800020 !important;
+    color: white !important;
+    font-size: 15px !important;
+    letter-spacing: .2em !important;
+    text-transform: uppercase !important;
+    border-radius: 24px !important;
+    text-align: center !important;
+    cursor: pointer !important;
+}
+
+.connect{
+    font-size: 45px;
+    padding-bottom: 60px;
+    padding-top: 25px;
+    letter-spacing: .3em;
+    text-transform: uppercase;
+    color: black;
+}
+
+.connect-text{
+    color: #800020;
+}
+
+.subscribe-box{
+    width: 50% !important;
+    padding-top: 30px !important;
+}
